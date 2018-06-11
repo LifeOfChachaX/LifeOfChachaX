@@ -33,4 +33,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact & Bookings
 
-Connect with him via his Instagram!!  [Instagram](https://instagram.com/lifeofchachax_) or contact him for bookings;Phone:+255693208336 /Email;Cydlevara@gmail.com.
+Connect with him via his Instagram!!  [Instagram](https://instagram.com/lifeofchachax_)
+Contact him for bookings:+255693208336 / Email;Cydlevara@gmail.com.
